@@ -1,0 +1,13 @@
+.nav {
+    background-color:rgb(218, 219, 231);
+}
+
+.col-4 {
+    height: 750px;
+    text-align: center;
+}
+
+.card {
+    background-color:cornflowerblue;
+    text-align: center;
+}
